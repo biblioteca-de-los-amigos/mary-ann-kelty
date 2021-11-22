@@ -14,7 +14,10 @@ yo te dije que te diría la razón en otro momento.
 ¿Quieres escucharla?
 
 [.discourse-part]
-_María:_ Si así lo quieres, mamá. . Mamá: No, es como tú quieras.
+_María:_ Si así lo quieres, mamá.
+
+[.discourse-part]
+_Mamá:_ No, es como tú quieras.
 Si crees que te va a doler escuchar la razón, no te obligaré a oírla.
 
 [.discourse-part]
@@ -46,7 +49,10 @@ Sin embargo, creo, María, que, si tratas de recordar,
 tú y yo hemos tenido más de una vez una conversación sobre este tema.
 No es en absoluto la primera vez que he tenido motivos para
 advertirte de esta tendencia a fingir algo que no es cierto.
-Por ejemplo, algunas veces finges ... . María: ¡Oh, querida mamá! Por favor,
+Por ejemplo, algunas veces finges ...
+
+[.discourse-part]
+_María:_ ¡Oh, querida mamá! Por favor,
 no uses esa palabra tan fea de "`fingir.`"
 
 [.discourse-part]

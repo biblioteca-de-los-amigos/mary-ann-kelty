@@ -22,7 +22,10 @@ ni te pones a reír cuando te veo mientras juegas con tus rompecabezas,
 o cuando armas tus mapas.
 
 [.discourse-part]
-_María:_ Porque no me importa que me mires cuando hago estas cosas, mamá. . Mamá: Pero,
+_María:_ Porque no me importa que me mires cuando hago estas cosas, mamá.
+
+[.discourse-part]
+_Mamá:_ Pero,
 ¿sí te importa que te vea en el otro juego?
 
 [.discourse-part]
@@ -32,7 +35,10 @@ _María:_ Sí, no me gusta.
 _Mamá:_ ¿Por qué no te gusta?
 
 [.discourse-part]
-_María:_ Porque me da miedo que te rías de mí. . Mamá: ¿Por qué me reiría de ti, querida?
+_María:_ Porque me da miedo que te rías de mí.
+
+[.discourse-part]
+_Mamá:_ ¿Por qué me reiría de ti, querida?
 
 [.discourse-part]
 _María:_ Pensarías que es muy tonto.
@@ -158,7 +164,10 @@ _Mamá:_
 Supongo que no te gustaría que yo pensara que eres una persona que hace cosas ocultas.
 
 [.discourse-part]
-_María:_ Oh, no lo soportaría. . Mamá:
+_María:_ Oh, no lo soportaría.
+
+[.discourse-part]
+_Mamá:_
 ¿Por qué te disgustaría tanto que yo pensara que haces cosas a ocultas?
 
 [.discourse-part]

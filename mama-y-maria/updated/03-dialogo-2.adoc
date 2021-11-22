@@ -20,7 +20,10 @@ Me gustaría ser tan grande como tú, para poder hacer lo que tú haces.
 _Mamá:_ Supongo te gustaría vestir como yo.
 
 [.discourse-part]
-_María:_ Sí, creo que me gustaría. . Mamá: ¿Y organizar la cena,
+_María:_ Sí, creo que me gustaría.
+
+[.discourse-part]
+_Mamá:_ ¿Y organizar la cena,
 y dirigir a los criados en lo que tienen que hacer?
 
 [.discourse-part]
@@ -55,7 +58,10 @@ No te gusta que te miren como a una niña.
 
 [.discourse-part]
 _María:_ No creo que quiera ser importante, mamá;
-no creo que me importe que me consideren una niña. . Mamá: Tal vez no te des cuenta,
+no creo que me importe que me consideren una niña.
+
+[.discourse-part]
+_Mamá:_ Tal vez no te des cuenta,
 mi querida; pero ese es el principal deseo de tu corazón al querer ser alguien mayor;
 y esa es el sentimiento que está mal fomentar.
 Las niñas y los niños pequeños son muy propensos a ser extremadamente vanos y ambiciosos.
@@ -107,7 +113,10 @@ de que estás enfadada porque Mariana fue elogiada,
 ¿no es así?
 
 [.discourse-part]
-_María:_ Oh sí, mamá, de seguro lo estaría. . Mamá: Entonces, mi querida,
+_María:_ Oh sí, mamá, de seguro lo estaría.
+
+[.discourse-part]
+_Mamá:_ Entonces, mi querida,
 ¿puedes ver qué vergonzoso es estar ansiosa por llamar la atención?
 
 [.discourse-part]
@@ -121,7 +130,10 @@ y también la luz verdadera que exhibe la oscuridad,
 y conduce al camino correcto para salir de ella.
 
 [.discourse-part]
-_María:_ No te entiendo mamá. . Mamá: Bueno, trataré de explicártelo;
+_María:_ No te entiendo mamá.
+
+[.discourse-part]
+_Mamá:_ Bueno, trataré de explicártelo;
 pero primero debo hacerte una pregunta, que espero que contestes con la verdad,
 porque todo lo que tengo que decirte depende de ella.
 
@@ -211,7 +223,10 @@ _María:_ ¡Oh, mamá! ¡Cómo expones lo que hay dentro de mí!
 
 [.discourse-part]
 _Mamá:_ Eso es justamente lo que quiero hacer,
-querida mía. Quiero que veas el interior de tu corazón. . María: Me parece muy feo,
+querida mía. Quiero que veas el interior de tu corazón.
+
+[.discourse-part]
+_María:_ Me parece muy feo,
 creo.
 
 [.discourse-part]

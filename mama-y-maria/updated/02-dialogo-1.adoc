@@ -15,7 +15,10 @@ _María:_ No, mamá; porque no podría ver las malas hierbas.
 _Mamá:_ ¿Puedes ver las malas hierbas en tu corazón?
 
 [.discourse-part]
-_María:_ Yo no creo que las malas hierbas crezcan allí. . Mamá:
+_María:_ Yo no creo que las malas hierbas crezcan allí.
+
+[.discourse-part]
+_Mamá:_
 ¿No te pinchan a veces los pensamientos molestos e impacientes como ortigas,
 cuando te pido que hagas algo que no te gusta hacer?; por ejemplo,
 ¿cuándo has hecho mal las matemáticas y tienes que volverlas a hacer?
@@ -34,7 +37,10 @@ _María:_ Siento algo muy parecido.
 _Mamá:_ ¿Son estos sentimientos como flores bonitas, o son como horribles malas hierbas?
 
 [.discourse-part]
-_María:_ Son como hierbas muy feas, mamá. . Mamá:
+_María:_ Son como hierbas muy feas, mamá.
+
+[.discourse-part]
+_Mamá:_
 ¿Puedes ver lo feas que son mientras te pinchan y te ortigan?
 
 [.discourse-part]
@@ -68,7 +74,10 @@ como la luz de las tinieblas en esta habitación. ¿Tú ves cuando estás hacien
 verdad, cuando estás impaciente, molesta, y con envidia?
 
 [.discourse-part]
-_María:_ Sí, mamá. . Mamá: Y,
+_María:_ Sí, mamá.
+
+[.discourse-part]
+_Mamá:_ Y,
 ¿puedes ver que haces bien cuando te esfuerzas por
 contener esos malos sentimientos y actitudes,
 y no permites que aparezcan?
@@ -81,7 +90,10 @@ que ahora es de día en mi corazón, ¿no es así?
 _Mamá:_ Sí, ahora estás permitiendo que la luz verdadera brille; estás quieta y humilde,
 y dispuesta a ser instruida;
 y las persianas de los malos sentimientos y actitudes
-no están puestas para oscurecer tu corazón. . María:
+no están puestas para oscurecer tu corazón.
+
+[.discourse-part]
+_María:_
 Mamá, ¿a qué te refieres con permitir que la luz verdadera brille?
 ¿Qué es esta luz verdadera?
 

@@ -37,7 +37,10 @@ y de quién provino.
 ¿No fue este el caso?
 
 [.discourse-part]
-_María:_ Sí, mamá. . Mamá: Bueno, si sentiste un gran deseo de saber su contenido,
+_María:_ Sí, mamá.
+
+[.discourse-part]
+_Mamá:_ Bueno, si sentiste un gran deseo de saber su contenido,
 aunque no tenías nada que ver con ello, ¿no crees que yo deseaba saberlo aún más?
 
 [.discourse-part]
@@ -102,11 +105,17 @@ _Mamá:_ Pero, supongo que te gustaría mucho tener algunas de esas cosas,
 si pudieras tenerlas.
 
 [.discourse-part]
-_María:_ Sí, creo que me gustaría. . Mamá: ¿Y aún así te contentas con renunciar a ellas,
+_María:_ Sí, creo que me gustaría.
+
+[.discourse-part]
+_Mamá:_ ¿Y aún así te contentas con renunciar a ellas,
 y pensar que yo sé bien lo que es mejor para ti?
 
 [.discourse-part]
-_María:_ Oh, sí mamá. . Mamá: Bien, entonces mi querida hija,
+_María:_ Oh, sí mamá.
+
+[.discourse-part]
+_Mamá:_ Bien, entonces mi querida hija,
 si puedes confiar en tus padres terrenales para guiarte por el mejor camino,
 ¿cuánto más deberías obedecer los mandatos de tu Padre celestial?;
 y cuando Él te pida negarte a ti misma,
