@@ -138,8 +138,8 @@ y no somos más responsables por ellos de lo que tú
 tendrías que responderle a la señora Allen,
 si yo tomara un frasco de tinta, y lo tirara sobre tu limpia y blanca colcha.
 Los pensamientos malos que satanás echa en nuestras mentes
-solamente se hacen nuestros cuando nos unimos a ellos,
-y nos deleitamos en su compañía, y hablamos con ellos, y les damos cabida.
+solamente se hacen nuestros __cuando nos unimos a ellos,
+y nos deleitamos en su compañía, y hablamos con ellos, y les damos cabida.__
 Por ejemplo,--continuando con la comparación de la tinta--no se esperaría que yo hiciera
 tal cosa como arrojar la tinta sobre la colcha de la señora Allen para arruinarla,
 a menos que sintiera algo de rencor hacia ella,
@@ -232,7 +232,7 @@ y las ropas finas que Laura Thomson posee.`"
 "`Fue porque nunca antes había sentido pensamientos tan infelices,
 que no sabía cómo sobrellevarlos.`"
 
-"`No eran tus pensamientos,`" dijo la señorita Robson.
+"`No eran __tus__ pensamientos,`" dijo la señorita Robson.
 "`Si lo fueran,
 no tendrías tanto dolor en su compañía como el que te han ocasionado.
 La verdad del caso, mi querida, es simplemente esta: Tú eres por naturaleza,

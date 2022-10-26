@@ -65,9 +65,9 @@ como en su relación de la una con la otra; y también,
 cómo influyó la conducta de la institutriz sobre ellas en esa ocasión. Gertrudis
 casi siempre lidiaba con un asunto en ortografía que la desconcertaba mucho;
 y era identificar cuándo debía hacer el uso correcto
-de la consonante '`h`' en ciertas palabras como hay,
-ay,
-o ahí. Este tema ha resultado ser desconcertante para mentes más maduras que la de Gertrudis,
+de la consonante _'`h`'_ en ciertas palabras como _hay,_
+_ay,_
+o _ahí._ Este tema ha resultado ser desconcertante para mentes más maduras que la de Gertrudis,
 por lo que la señorita Robson atendía con suma paciencia los frecuentes
 errores que ocurrían con el mal uso de esa letra.
 Pero no sucedía lo mismo con Harriet y Charlotte,
@@ -83,7 +83,7 @@ y que originaba los mismos errores que ella estaba esforzándose por evitar.
 Una mañana, cuando esto ocurría, la señorita Robson lo notó;
 y cuando Gertrudis había terminado de decir su lección de ortografía,
 y había sido corregida nuevamente en su típico error de
-colocar incorrectamente la letra '`h`' en las palabras hay,
+colocar incorrectamente la letra _'`h`'_ en las palabras hay,
 ay, o ahí, le dijo a Charlotte:
 "`Creo que ahora puedes escribir lo suficientemente bien como para que tomes tu pizarra,
 y acompañes a tu hermana en su ejercicio de dictado.`"
@@ -101,6 +101,9 @@ como un tierno padre,
 se propuso exhortarlos por medio de una carta en relación con diversos temas que,
 debido a la ignorancia e imprudencia de la juventud,
 podían encontrarse en condiciones de ser advertidos.
+
+[.embedded-content-document.letter]
+--
 
 "`Recuerden esta única cosa`" dijo,
 "`que como padre los amonesto y les encargo que tomen nota y observen:
@@ -137,6 +140,8 @@ necios, vanos y siguen sus propias mentes y lo que se levante ahí del malvado,
 afligirán mi corazón y provocarán a Dios en su contra, a traer el mal sobre ustedes,
 tanto en este mundo como para siempre.`"
 
+--
+
 Cuando Harriet y Charlotte terminaron de escribir este texto,
 dejaron de lado sus pizarras hasta que la señorita Robson pudiera corregirlas,
 cosa que siempre hacía antes de terminar la escuela;
@@ -161,7 +166,7 @@ Había más errores en la pizarra de Charlotte que en la de Harriet,
 porque en el afán y la impaciencia con que se apresuraba a realizar su nueva tarea,
 estaba menos atenta que su hermana; pero el trabajo de Harriet aún reflejaba descuido,
 y vale la pena mencionar que, en ambas prácticas,
-habían colocado incorrectamente la letra '`h`'. Ambas se sintieron profundamente humilladas,
+habían colocado incorrectamente la letra _'`h`'._ Ambas se sintieron profundamente humilladas,
 no solo porque se les hizo ver su tendencia a cometer errores,
 sino también por la forma en que fueron reprendidas por su conducta grosera hacia Gertrudis.
 Ellas no eran (como les mencioné anteriormente) niñas insensibles; todo lo contrario,

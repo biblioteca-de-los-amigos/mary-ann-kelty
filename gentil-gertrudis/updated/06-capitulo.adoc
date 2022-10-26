@@ -32,11 +32,11 @@ e iba a cortar los nudos que no podía desenredar.
 "`Oh, querida Charlotte, por favor, ¡no lo hagas!
 Dijo Gertrudis, "`si la sostienes, yo trataré de desenredar los nudos.`"
 
-"`¿Tú los vas a desenredar?`"
+"`_¿Tú_ los vas a desenredar?`"
 respondió Charlotte con cierto desprecio; porque, a decir la verdad,
 estaba volviéndose tan molesta que necesitaba algo en qué descargar su frustración,
 y por eso estaba demasiado dispuesta a desahogarse con Gertrudis.
-"`¡No me digas, desenrédalos tú! ¡Creo que el pequeño Johnny también podría hacerlo!`"
+"`¡No me digas, desenrédalos _tú_! ¡Creo que el pequeño Johnny también podría hacerlo!`"
 
 A Gertrudis le resultaba siempre más fácil soportar el mal humor que reaccionar ante él,
 por lo que no respondió ante tal berrinche,
@@ -128,7 +128,7 @@ Ahora entiendo,`" dijo Gertrudis, con una sonrisa;
 y que solamente se puede obtener cuando las cosas son desagradables.`"
 
 "`Y yo también,`" dijo Charlotte, sonriendo igualmente.
-"`La señorita Robson se refiere a la paciencia.`"
+"`La señorita Robson se refiere a __la paciencia__.`"
 
 "`Bien,
 veamos si podemos encontrar algo de esta preciosa cosa en nuestra actividad,`"
@@ -161,19 +161,23 @@ tuve que esforzarme para no pedir un pequeño descanso.`"
 Me alegro de que no haya arruinado mi seda al cortarla;
 y me alegro muchísimo de haber aprendido lo satisfactoria que es la paciencia.`"
 
-Charlotte.--"`Y yo también lo estoy.
+[.discourse-part]
+__Charlotte__:--"`Y yo también lo estoy.
 Ahora puedo sentir que en efecto hay satisfacción en ella.
 Pero, señorita Robson, no hay otra forma de aprender paciencia que no sea sobrellevando,
 o haciendo cosas desagradables?`"
 
-Señorita Robson.--"`Responderé a tu pregunta haciéndote una, Charlotte; y es ésta:
+[.discourse-part]
+__Señorita Robson__:--"`Responderé a tu pregunta haciéndote una, Charlotte; y es ésta:
 ¿Qué es la paciencia?`"
 
-Charlotte.--(Después de una pausa)--"`Creo que es tratar
+[.discourse-part]
+__Charlotte__:--(Después de una pausa)--"`Creo que es tratar
 de mostrarse contenta y feliz cuando estás apunto de llorar;
 y quedarte quieta y callada cuando estás a punto de romper todo en pedazos.`"
 
-Señorita Robson.--"`Supongo que me estás describiendo lo
+[.discourse-part]
+__Señorita Robson__:--"`Supongo que me estás describiendo lo
 que pasaba por tu mente mientras enrollabas la seda.
 Bien, debe ser algo verdaderamente satisfactorio y grato lo que libra a cualquier ser
 humano de un comportamiento tan escandaloso y degradante como el que mencionaste;
@@ -187,34 +191,43 @@ con la seda perfectamente enrollada en el cartón,
 te hubieras mostrado con la seda rota en pedazos (para desgracia
 y decepción de Gertrudis) y sollozando como una bebé?`"
 
-Charlotte.--"`Oh sí, señorita Robson--no soporto pensar en ello.
+[.discourse-part]
+__Charlotte__:--"`Oh sí, señorita Robson--no soporto pensar en ello.
 Siempre amaré las cosas desagradables,
 si ellas me enseñan algo tan bueno como la paciencia.
 Pero, aún no veo muy bien, por qué no puedo aprenderla de una manera menos desagradable.`"
 
-Señorita Robson.--"`Qué piensas de eso, Gertrudis?`"
+[.discourse-part]
+__Señorita Robson__:--"`Qué piensas de eso, Gertrudis?`"
 
-Gertrudis.--"`No creo que nos falte paciencia cuando las cosas son placenteras y agradables.
+[.discourse-part]
+__Gertrudis__:--"`No creo que nos falte paciencia cuando las cosas son placenteras y agradables.
 Supón Charlotte,
 que enrollar la seda hubiera proseguido de forma tan bien como cuando dijiste, '`¡Oh,
 qué bonito es esto!`' No veo qué oportunidad hubiéramos
 tenido para impacientarnos por ello.`"
+
+[.small-break]
+'''
 
 Charlotte se vio obligada a confesar que se trataba de un argumento de peso,
 y a admitir que la paciencia solamente se podía aprender
 cuando las cosas iban contrarias a nuestros deseos;
 o, como ella lo había expresado, cuando eran desagradables.
 
-Señorita Robson.--"`Creo, entonces,
+[.discourse-part]
+__Señorita Robson__:--"`Creo, entonces,
 que he dejado claro mi punto y he demostrado que nos conviene
 deleitarnos en las cosas cuando son desagradables.`"
 
-Charlotte.--"`Verdaderamente, nunca he sentido la clase de satisfacción que siento ahora,
+[.discourse-part]
+__Charlotte__:--"`Verdaderamente, nunca he sentido la clase de satisfacción que siento ahora,
 habiendo conquistado mi impaciencia con respecto a la madeja de seda.
 Pero, señorita Robson,
 esto pareciera ser una cosa tan pequeña como para angustiarse o alegrarse.`"
 
-Señorita Robson.--"`Por muy pequeño que sea, Charlotte,
+[.discourse-part]
+__Señorita Robson__:--"`Por muy pequeño que sea, Charlotte,
 viste que fue casi demasiado para ti.
 No debes caer en el error en el que las personas comúnmente caen,
 de hablar sobre esto o lo otro como algo '`muy pequeño.`' Nada
@@ -235,32 +248,40 @@ como para el Señor y no para los hombres.
 El pensamiento de que esto o lo otro es algo insignificante,
 nunca te ayudará a sobrellevarlo con la paciencia adecuada.`"
 
-Gertrudis.--"`¿Entonces, existen dos tipos de paciencia, señorita Robson?`"
+[.discourse-part]
+__Gertrudis__:--"`¿Entonces, existen dos tipos de paciencia, señorita Robson?`"
 
-Señorita Robson.--"`Hay un tipo de paciencia falsa, Gertrudis,
+[.discourse-part]
+__Señorita Robson__:--"`Hay un tipo de paciencia falsa, Gertrudis,
 que a menudo les permite a las personas controlar sus sentimientos, de modo que,
 en circunstancias difíciles aparentan ante los demás poseer mucho dominio propio y templanza.
 Esto no merece ser llamado bajo el nombre de paciencia,
 porque la paciencia es algo santo.`"
 
-Charlotte.--"`¿Cuál es el nombre de esta falsa paciencia, señorita Robson?`"
+[.discourse-part]
+__Charlotte__:--"`¿Cuál es el nombre de esta falsa paciencia, señorita Robson?`"
 
-Señorita Robson.--"`Su nombre es ORGULLO.
+[.discourse-part]
+__Señorita Robson__:--"`Su nombre es ORGULLO.
 ¿Saben algo acerca de él?`"
 
-Charlotte.--"`¿De qué manera se expresa?`"
+[.discourse-part]
+__Charlotte__:--"`¿De qué manera se expresa?`"
 
-Señorita Robson.--"`Se siente como si fuera mejor morir
+[.discourse-part]
+__Señorita Robson__:--"`Se siente como si fuera mejor morir
 antes que mostrarse preocupada ante los demás. Por eso,
 como acabas de decir,
-trata de aparentar estar contenta y feliz cuando más bien está lista para llorar;
+trata de _aparentar estar contenta y feliz_ cuando más bien está lista para llorar;
 y permanece quieta y callada cuando en realidad desea romper todo en pedazos.`"
 
-Charlotte.--"`Me temo, entonces, que estaba sintiendo algo de esta falsa paciencia;
+[.discourse-part]
+__Charlotte__:--"`Me temo, entonces, que estaba sintiendo algo de esta falsa paciencia;
 porque verdaderamente estaba muy indispuesta de que me vieran preocupada,
 y no me gustó para nada que Gertrudis mostrara más paciencia que yo.`"
 
-Señorita Robson.--"`Es muy probable, mi querida,
+[.discourse-part]
+__Señorita Robson__:--"`Es muy probable, mi querida,
 que tu perseverancia tuvo más que ver con el orgullo que con la paciencia.
 Debe haber un profundo sentimiento de la presencia de Dios en el corazón,
 antes de que podamos llevar a cabo todas nuestras acciones ante sus ojos,
@@ -274,36 +295,28 @@ y como a menudo necesitarás que te recuerde de su importancia,
 te leeré algunas líneas escritas por un amigo mío, que si te gustan,
 te entregaré una copia, y así podrás aprenderlas de memoria.`"
 
+[.small-break]
+'''
+
 Ambas niñas solicitaron escucharlas,
 y la señorita Robson recitó entonces las siguientes líneas:
 
+[verse]
+____
 A LA PACIENCIA
 
-¡Humilde y sumisa Paciencia!
-Nacida en el dolor,
-
+¡Humilde y sumisa Paciencia! Nacida en el dolor,
 Y sin embargo sonríes a través de tus lágrimas; ¡cuán suave e inferior,
-
 y tranquila es tu presencia! ¡Gracia austera!
-
 ¡Cuán humilde son los entornos donde tu pálida cara
-
 Revela su meditativa belleza! ¡Profundas las copas
-
 de amargura que calmadamente tomas!
-
 Pues bienvenido es para tu amoroso corazón
-
 En el dolor y la pena tomar la más grande porción;
-
 Y dulcemente tu espíritu gentil da para compartir
-
 De lo que tu Maestro te da para sufrir
-
 ¡De Su triste porción! Oh, Tú, Santo,
-
 "`¡Hágase Tú voluntad!`" fue su último lamento
-
 y junto con ese lamento expiró por la humanidad perdida en su consciencia,
-
 ¡Permite que mi alma probada encuentre tu santa paciencia!
+____

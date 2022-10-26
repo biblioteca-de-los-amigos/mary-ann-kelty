@@ -21,6 +21,10 @@ y finalmente llegó la siguiente, con la que terminaré esta pequeña narración
 [.asterism]
 '''
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Mi querida señora +++_______+++.
 
 El sello negro en esta carta la habrá preparado para su contenido.
@@ -62,37 +66,28 @@ que Gertrudis se había deleitado en escucharlas a lo largo de su enfermedad.
 Fueron escritas por una amiga de la señorita Robson
 que se encontraba en circunstancias difíciles.
 
+[verse]
+____
 Cuando por un corto tiempo están,
-
 Caen y mueren las rosas;
-
 Los lirios del valle se marchitan,
-
 Y así, ¡ay, debo hacerlo yo además!
 
 Pero, ¿por qué me lamento
-
 Y, por qué tengo que suspirar?
-
 El invierno se irá pronto
-
 Y los días de verano se van a asomar
 
 La adorada rosa reaparecerá
-
 Los lirios florecerán una vez más
-
 La primavera, fresca y hermosa volverá,
-
 y el rostro de la Creación se restaurará;
 
 Y los santos de Dios renovados se levantarán
-
 Con mejor vida que ésta;
-
 Y con el Bien Supremo morarán
-
 En la dicha infinita.
+____
 
 Sonrió dulcemente, como si estos pensamientos fueran muy valiosos para ella;
 y cuando le dije: "`Por medio de Uno, que murió por todos,
@@ -143,14 +138,13 @@ líneas del señor Cecil cuando falleció uno de sus hijos,
 un bebé de un mes que murió al amanecer,
 por lo que pronuncié en voz alta el primer verso:
 
+[verse]
+____
 No me detengas más aquí, en este lugar
-
 Abrumada en el dolor, la más querida mamá
-
 Tus bondadosas caricias me van a angustiar,
-
-¡Déjame partir!
-Que el día se aproxima.
+¡Déjame partir! Que el día se aproxima.
+____
 
 "`¡Tu día se aproxima, dichosa niña!`" exclamé, en el momento en que besaba su mejilla,
 y exhalaba unas palabras a Él que ve en lo secreto.
@@ -182,6 +176,10 @@ puedan experimentar una partida tan pacífica como la de nuestra dulce Gertrudis
 Sintiendo este mismo deseo tanto para mí, como para ti, mis amiga cristiana,
 y para todos mis semejantes, me despido sinceramente,
 
+[.signed-section-signature]
 John Allen.
 
+--
+
+[.the-end]
 Fin.

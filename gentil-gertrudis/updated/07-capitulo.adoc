@@ -158,8 +158,13 @@ y al despedirse de ellos por la noche, se acercaran a besarlos.
 Pero el corazón de Harriet, en ese momento,
 no estaba dispuesto a brindar ninguna muestra de cariño. ¡Tal es
 la triste consecuencia de alimentar los malos sentimientos!
-Como lo señaló un gran poeta, en cierta ocasión, "`No vienen como espías solitarios,
+Como lo señaló un gran poeta, en cierta ocasión,
+
+[verse]
+____
+"`No vienen como espías solitarios,
 sino en batallones.`"
+____
 
 El señor Allen volvió su cabeza hacia la puerta que se abría, y, viendo a Harriet,
 extendió su mano, aunque su mirada continuaba viendo el libro, mientras decía:
@@ -268,7 +273,7 @@ y las miró seriamente a ambas, mientras repetía, "`¿quién la manda?`"
 Aunque soy viejo, la aflicción de la pobre Gertrudis me ha beneficiado a mí también,
 y me ha enseñado mucho;`" y sonrió.
 
-"`Oh papá,`" dijo Charlotte, "`¡cuánto debemos aprender nosotras entonces!`"
+"`Oh papá,`" dijo Charlotte, "`¡cuánto debemos aprender _nosotras_ entonces!`"
 
 "`Bien, espero y creo que ambas están aprendiendo bastante.
 Están aprendiendo a ser gentiles;--sí, sí, he visto ejemplos de ello,
@@ -398,17 +403,15 @@ footnote:[Madame Guyón,
 Ver su Himno titulado "`The Joy of the Cross,`" traducido al inglés por Cowper.]
 de espíritu amable a través de éstas líneas:
 
+[verse]
+____
 El amor propio no ve virtud en el pesar
-
 Considera su propio bienestar
-
 Es toda la dicha que conoce;
-
 Pero objetivos más nobles el amor verdadero dispone;
-
 En la abnegación está su gozo,
-
 En el sufrimiento su reposo.
+____
 
 El señor Allen cerró entonces el volumen sagrado y concluyó
 la reunión de la mañana con una devota y ferviente súplica,

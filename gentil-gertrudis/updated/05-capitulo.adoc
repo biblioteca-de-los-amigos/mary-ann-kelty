@@ -47,7 +47,7 @@ su deseo de obtener un cubo se hizo más impetuoso
 que nunca,--y con el fin de cumplir sus deseos,
 no dejó de intentar todo lo que estuviera a su alcance para conseguir uno.
 Dio unas palmadas,
-y entonó todos los sonidos de "`¡ta! ¡pa! y ¡ma! que a menudo habían sido
+y entonó todos los sonidos de _"`¡ta!`"_ _"`¡pa!`"_ y _"`¡ma!`"_ que a menudo habían sido
 admirados o en ciertas ocasiones solicitados por los que lo rodeaban,
 y enseguida obtuvo la dicha de comprobar su éxito.
 Gertrudis tomó un poquito y se lo dio a Johnny, y aunque esto no estaba bien,
@@ -265,10 +265,12 @@ la señorita Robson, y las jóvenes se dedicaban a la costura.
 No me atreveré a decir si fue por casualidad,
 o si alguna insinuación de parte de la señorita Robson pudo
 haber influido en la elección del libro para esa noche;
-pero sucedió que después de haber elegido La Vida de Samuel Kilpin,
+pero sucedió que después de haber elegido [.book-title]#La Vida de Samuel Kilpin#,
 como el libro que iba a leerles,
 no había avanzado mucho antes de llegar a la siguiente anécdota:
 
+[quote]
+____
 "`Cuando tenía siete años,`" dice el señor Kilpin,
 "`me dejaron a cargo de la tienda.
 Un hombre pasó anunciando, '`¡Corderitos de juguete, todos blancos y limpios,
@@ -291,6 +293,7 @@ creyendo y adoptando para mí el pasaje:
 pedí que me perdonara, y luego quemé el cordero,
 mientras ella lloraba por su joven arrepentido.`"^
 footnote:[La Vida de Kilpin, pág. 6]
+____
 
 Tan pronto terminó de leer esta conmovedora anécdota, el señor Allen hizo una pausa,
 como solía hacer cada vez que se encontraba con algo particularmente interesante.
