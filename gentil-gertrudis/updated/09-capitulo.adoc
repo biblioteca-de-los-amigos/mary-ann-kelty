@@ -6,29 +6,40 @@ sólo quedaron la señora Allen, la señorita Robson, Harriet y Charlotte;
 entre las cuales tuvo lugar la siguiente conversación,
 mientras estaban ocupadas en sus tareas.
 
-Harriet.--¡Qué niña tan superficial es esa Laura Thomson!
+[.discourse-part]
+__Harriet__:--¡Qué niña tan superficial es esa Laura Thomson!
 
-Charlotte.--Nunca había visto algo tan absurdo.
+[.discourse-part]
+__Charlotte__:--Nunca había visto algo tan absurdo.
 ¡Cómo se paseaba por la habitación!
+
+[.small-break]
+'''
 
 Estas palabras fueron acompañadas por una variedad de movimientos sinuosos y deslizantes,
 que Charlotte exhibió imitando los movimientos de Laura Thomson.
 
-Señora Allen.--(esforzándose por no reírse).
+[.discourse-part]
+__Señora Allen__:--(esforzándose por no reírse).
 Charlotte, Charlotte, eso está muy mal.
 No deberías hacerlo, ¿no es cierto señorita Robson?
 
-Señorita Robson.--Creo que a Charlotte no le gustaría que la representaran de esa forma.
+[.discourse-part]
+__Señorita Robson__:--Creo que a Charlotte no le gustaría que la representaran de esa forma.
 
-Charlotte.--¿Me representan a mí de esa forma?
+[.discourse-part]
+__Charlotte__:--¿Me representan a mí de esa forma?
 ¡Espero no hacer el ridículo como lo hace Laura Thomson!
 
-Señorita Robson.--Tal vez no aparentes ser otras personas en su forma particular.
+[.discourse-part]
+__Señorita Robson__:--Tal vez no aparentes ser otras personas en su forma particular.
 Es decir, quizás no te pones una fachada según su manera de actuar.
 
-Harriet.--Pero, señorita Robson, no creo que Charlotte sea en absoluto superficial.
+[.discourse-part]
+__Harriet__:--Pero, señorita Robson, no creo que Charlotte sea en absoluto superficial.
 
-Señora Allen.--No, honestamente, señorita Robson,
+[.discourse-part]
+__Señora Allen__:--No, honestamente, señorita Robson,
 considero que estás siendo un poco dura con Charlotte.
 
 Fortalecida por el comentario de su mamá,
@@ -39,10 +50,14 @@ con una osadía que no hubiera sentido o mostrado en la ausencia de su madre,
 "`creo que te quedarías muy perpleja intentando mencionar cuándo
 me ha visto hacer el ridículo como lo hace Laura Thomson.`"
 
-Señorita Robson.--No me gusta sentirme perpleja, especialmente por mis alumnas; porque,
+[.discourse-part]
+__Señorita Robson__:--No me gusta sentirme perpleja, especialmente por mis alumnas; porque,
 si ha de haber algo perplejo entre nosotras,
 creo que me corresponde a mí presentárselo a ellas.
 Así que creo, Charlotte, que debo darte la misión de resolver lo que te quiero decir.`"
+
+[.small-break]
+'''
 
 Había una firmeza en la señorita Robson,
 que no le permitía desviarse de su objetivo cuando lo consideraba adecuado.
@@ -62,17 +77,23 @@ en lugar de responder al comentario de Charlotte sobre su trabajo, retomó el te
 rogándole a su institutriz que le dijera en qué creía que Charlotte
 se había mostrado culpable de la imitación y el orgullo.
 
-Señorita Robson.--"`No recuerdo haber dicho que fuera
+[.discourse-part]
+__Señorita Robson__:--"`No recuerdo haber dicho que fuera
 culpable de ninguna de las dos cosas.`"
 
-Harriet.--"`No, no precisamente;
+[.discourse-part]
+__Harriet__:--"`No, no precisamente;
 pero parecía que tú
 pensabas que ella era culpable de ambas.`"
 
-Señorita Robson.--"`Le di a Charlotte la misión de
+[.discourse-part]
+__Señorita Robson__:--"`Le di a Charlotte la misión de
 averiguar lo que quise decir con mis comentarios.
 Quizás ya haya resuelto el enigma;
 y entonces podrás escuchar de ella todo lo que tengo que decir sobre el tema.`"
+
+[.small-break]
+'''
 
 Mientras sucedía esto, Charlotte había estado mostrando grandes signos de inquietud,
 mirando en una caja de herramientas, y en otra canasta,
@@ -81,11 +102,17 @@ aunque sin mencionar el nombre del artículo perdido.
 Harriet la forzó a volver al punto que evidentemente deseaba evitar,
 al preguntarle si sabía lo que la señorita Robson quería decir.
 
-Charlotte.--(sonrojándose)--"`Creo que sí.`"
+[.discourse-part]
+__Charlotte__:--(sonrojándose)--"`Creo que sí.`"
 
-Harriet.--"`Oh, dime entonces, quiero escuchar lo que es.`"
+[.discourse-part]
+__Harriet__:--"`Oh, dime entonces, quiero escuchar lo que es.`"
 
-Señorita Robson.--"`Les daré a ambas la oportunidad de hablar.`"
+[.discourse-part]
+__Señorita Robson__:--"`Les daré a ambas la oportunidad de hablar.`"
+
+[.small-break]
+'''
 
 Y, mientras hablaba, se levantaba para salir de la habitación;
 pero Charlotte se lo impidió al lanzar sus brazos alrededor de ella,
@@ -103,11 +130,15 @@ pero como te encuentras en unas circunstancias que te obligan a ser tu propia re
 debo insinuarle a Harriet que no fue muy gentil de su parte alimentar
 esa impaciente curiosidad que te ha arrastrado a una situación tan dolorosa.`"
 
-Harriet.--"`En efecto,
+[.discourse-part]
+__Harriet__:--"`En efecto,
 la culpa es mía. Pero no escucharé lo que Charlotte tiene que decir;
 me castigaré de esa manera.
 Estoy segura, querida señorita Robson, que tienes un propósito para cada cosa que dices,
 o incluso nos insinúas, y eso es suficiente.`"
+
+[.small-break]
+'''
 
 La señorita Robson estaba demasiado satisfecha con
 el comportamiento de sus dos amadas pupilas,
@@ -151,7 +182,7 @@ pero esa mañana, puso una tonta excusa de que deseaba ocuparse en el jardín,
 y ellas junto con la señora Allen, se marcharon.
 
 Y aquí, me detendré para señalar que es conveniente que las personas jóvenes,
-siempre reconozcan ante sí mismas la verdadera razón de todas sus acciones,
+siempre reconozcan ante sí mismas la _verdadera_ razón de todas sus acciones,
 especialmente cuando son del tipo que las impulsa a desear estar solas.
 Ahora, en este caso, si Charlotte hubiera reconocido ante sí misma la verdad,
 y hubiera dicho: "`deseo estar sola,

@@ -168,6 +168,7 @@ pronto podrás seguir con tus lecciones;`" e indicándole
 dónde debía comenzar a copiar del libro,
 regresó donde sus otras pupilas, cuyas lágrimas también se habían borrado.
 
+[.offset]
 El silencio más absoluto reinó por algún tiempo.
 
 Luego de que esta lucha por el poder había terminado tan desastrosamente,
@@ -179,14 +180,14 @@ donde se comportó de una manera muy ordenada y apropiada por el resto de la ma�
 Cuando la escuela terminó, sus cargas y aflicciones fueron olvidadas;
 porque la angustia nunca dura mucho en los corazones jóvenes.
 
+[verse]
+____
 "`La lágrima que recorre la mejilla del albor,
-
 Es como la gota de rocío en la flor;
-
 Cuando la nueva brisa de verano se acerca,
-
 Y agita el arbusto, --la flor se seca.`"^
 footnote:[Walter Scott.]
+____
 
 Se podría haber esperado, tal vez,
 que la señorita Robson hubiera aprovechado la oportunidad

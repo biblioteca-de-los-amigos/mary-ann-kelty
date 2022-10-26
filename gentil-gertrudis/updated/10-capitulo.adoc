@@ -61,14 +61,14 @@ enojada como la pobre mujer (aunque por otra razón),
 y por tanto igual de incapaz para hablar,
 se quedó de última para aleccionar a Mary Hayes sobre lo inapropiado de su conducta.
 
+[verse]
+____
 Reprender con ira, seguro debes estar,
-
 Cualquiera que sea la falta, no es la forma de curar.
-
 ¿Podría un sabio médico ofrecer, puedes suponer,
-
 Al enfermo su poción hirviendo para beber?^
 footnote:[Dr. John Byrom]
+____
 
 No les relataré lo que pasó entre ambas,
 porque no sería de edificación. Pueden suponer que no fue nada beneficioso,
@@ -89,7 +89,7 @@ Harriet detuvo el rumbo de la señora Thomson, diciéndole: "`Oh, señora Thomso
 espero que nunca más haga algo por Mary Hayes.
 Espero que no vaya a su cabaña.`"
 
-Sucedió que la señora Thomson en realidad iba a visitar a Mary Hayes; porque,
+Sucedió que la señora Thomson en realidad _iba_ a visitar a Mary Hayes; porque,
 al vivir muy cerca de Woodside,
 ella no sólo era colaboradora de la sociedad por medio de la cual
 se ayudaba a los enfermos y a los pobres de ese pueblo,
@@ -296,7 +296,7 @@ Puede resumirse en unas pocas y preciosas palabras--'`estén quietos,
 y vean la salvación del Señor.`'^
 footnote:[Éxodo 14:13; 2 Crónicas 20:17]
 Cuando la conmoción de cualquier tipo te inquieta, incluso la placentera,
-debes estar quieta, esto es,
+debes _estar quieta,_ esto es,
 esforzarte por no actuar o hablar hasta que tus emociones se hayan calmado;
 porque al actuar o hablar en esos momentos,
 es probable que te pongas en circunstancias que sean insensatas o pecaminosas,
@@ -314,14 +314,14 @@ y pronto sentirás algo mejor que tú misma y que tus propios sentimientos desen
 que busca salvarte de esas palabras y acciones de las que, en un corto tiempo,
 estarás verdaderamente agradecida de ser librada.`"
 
+[verse]
+____
 Cuando el dolor o la alegría te opriman fuertemente,
-
 Mantente en alerta especialmente;
-
 Entonces un menor peligro de actuar mal encontrarás,
-
 Un estado más sereno producirá una luz más eficaz.^
 footnote:[Dr. John Byrom]
+____
 
 El asunto resultó justo como la señorita Robson lo había predicho.
 Recién se había retirado el mantel de la mesa,
